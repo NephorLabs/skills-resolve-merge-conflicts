@@ -3,7 +3,7 @@
 Charting the knowledge of the Internet, just like Galileo charted the stars. Trying to be as good as possible. 
 
 ## Job History
-
+Content Creator
 
 ### GitHub Trainer
 
