@@ -1,8 +1,9 @@
 # GitHub Teacher
 
-Charting the knowledge of the Internet, just like Galileo charted the stars.
+Charting the knowledge of the Internet, just like Galileo charted the stars. Trying to be as good as possible. 
 
-## Jobs
+## Job History
+Content Creator
 
 ### GitHub Trainer
 
@@ -13,6 +14,7 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
+Making Content
 
 ### Education
 
